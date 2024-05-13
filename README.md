@@ -1,6 +1,4 @@
-# MVC PHP
-
-proyecto apuestatotal
+# PROYECTO APUESTATOTAL
 
 ## Puntos
 
